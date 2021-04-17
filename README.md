@@ -1,2 +1,3 @@
-# clockd
+# clockr
+
 Get the current time
